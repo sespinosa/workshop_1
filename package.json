@@ -1,0 +1,12 @@
+{
+  "name": "workshop_1",
+  "version": "1.0.0",
+  "description": "This workshop aims to explain how to setup a basic TCP Socket connection and implementing a super simple RSA encryption in the process",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebastian Espinosa <sespinosar@gmail.com>",
+  "license": "ISC"
+}
